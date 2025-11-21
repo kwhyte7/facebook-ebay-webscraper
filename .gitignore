@@ -1,0 +1,5 @@
+data/cookies.json
+README.txt
+!logs/
+
+logs/*

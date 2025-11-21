@@ -1,0 +1,11 @@
+{
+"webhookUrl" : "YOUR DISCORD WEBHOOK URL HERE",
+"ebayUrl" : "https://www.ebay.co.uk/",
+
+"If you want to show browser then make this say false, if not make it say new" : "new",
+
+"INSERT WHAT YOU ARE SEARCHING BELOW LIKE THE FOLLOWING" : {
+"Laptop" : {"facebook pages" : 1, "ebay items (240, 120, 60)" : 60, "minimum price" : 0, "maximum price" : 99999, "show items that are x% of average" : 50, "show items that are x£ off the average" : 999},
+"Bike" : {"facebook pages" : 2, "ebay items (240, 120, 60)" : 60, "minimum price" : 0, "maximum price" : 99999, "show items that are x% of average" : 50, "show items that are x£ off the average" : 999}
+}
+}
